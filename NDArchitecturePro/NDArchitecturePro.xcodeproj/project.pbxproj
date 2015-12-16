@@ -120,10 +120,6 @@
 				7D596F121C213608001DD713 /* AppDelegate.m */,
 				7D596F141C213608001DD713 /* ViewController.h */,
 				7D596F151C213608001DD713 /* ViewController.m */,
-				7D596F171C213608001DD713 /* Main.storyboard */,
-				7D596F1A1C213608001DD713 /* Assets.xcassets */,
-				7D596F1C1C213608001DD713 /* LaunchScreen.storyboard */,
-				7D596F1F1C213608001DD713 /* Info.plist */,
 				7D596F0E1C213608001DD713 /* Supporting Files */,
 			);
 			path = NDArchitecturePro;
@@ -132,6 +128,10 @@
 		7D596F0E1C213608001DD713 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7D596F171C213608001DD713 /* Main.storyboard */,
+				7D596F1A1C213608001DD713 /* Assets.xcassets */,
+				7D596F1C1C213608001DD713 /* LaunchScreen.storyboard */,
+				7D596F1F1C213608001DD713 /* Info.plist */,
 				7D596F0F1C213608001DD713 /* main.m */,
 			);
 			name = "Supporting Files";
